@@ -6,5 +6,5 @@ function sleepFor( sleepDuration ){
     while(new Date().getTime() < now + sleepDuration){ /* do nothing */ }
 }
 
-sleepFor(2000);
+sleepFor(1000);
 console.log("hello two.js sleep !");

@@ -17,3 +17,4 @@ Getting started:
 7. Try async, defer with script tage in index.html, and repeat from 1
 8. Try different parsing/evaluation times in JS script files, and repeat from 1
  
+https://itnext.io/how-the-browser-renders-a-web-page-dom-cssom-and-rendering-df10531c9969

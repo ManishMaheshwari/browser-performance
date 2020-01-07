@@ -7,5 +7,5 @@ function sleepFor( sleepDuration ){
     while(new Date().getTime() < now + sleepDuration){ /* do nothing */ }
 }
 
-sleepFor(2000);
+sleepFor(1500);
 console.log("hello three.js sleep !");
